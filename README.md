@@ -15,7 +15,7 @@ Live-streaming sentiment analysis application created with Python and Dash, host
 - install `requirements.txt` using `pip install -r requirements.txt`
 - Fill in your Twitter App credentials to `twitter_stream.py`. Go to [**apps.twitter.com**](https://apps.twitter.com/) to set that up if you need to.
 - Run `twitter_stream.py` to build database
-- If you're using this locally, you can run the application with the `dev_server.py` script. If you want to deploy this to a webserver, see my [**deploying Dash application tutorial**](https://pythonprogramming.net/deploy-vps-dash-data-visualization/)
+- If you're using this locally, you can run the application with the `dev_server.py` script. If you want to deploy this to a webserver, see this [**deploying Dash application tutorial**](https://pythonprogramming.net/deploy-vps-dash-data-visualization/)
 - You might need the latest version of sqlite. 
 ```
 sudo add-apt-repository ppa:jonathonf/backports
